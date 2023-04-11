@@ -1,2 +1,2 @@
 # dowIpa
-Downoloader of ipas
+Downoloader of ipas .
